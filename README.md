@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# calculator_2
+# calculator
 
 A new Flutter project.
 
